@@ -1,4 +1,8 @@
-# react-use-event-source-ts
+# Deprecated
+
+**WARNING:** This project has moved to [@react-nano/use-event-source-ts](https://github.com/lusito/react-nano)
+
+## react-use-event-source-ts
 
 [![Minified + gzipped size](https://badgen.net/bundlephobia/minzip/react-use-event-source-ts)](https://www.npmjs.com/package/react-use-event-source-ts)
 [![NPM version](https://badgen.net/npm/v/react-use-event-source-ts)](https://www.npmjs.com/package/react-use-event-source-ts)
