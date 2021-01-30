@@ -1,6 +1,6 @@
 # Deprecated
 
-**WARNING:** This project has moved to [@react-nano/use-event-source-ts](https://github.com/lusito/react-nano)
+**WARNING:** This project has moved to [@react-nano/use-event-source](https://github.com/lusito/react-nano)
 
 ## react-use-event-source-ts
 
